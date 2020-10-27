@@ -21,11 +21,15 @@ How does voter turnout impact elections?
 Whose votes count the most (i.e. voting power) and how do they predict the winner?
 Predictors of elections victories by ...
 Race, gender, education level, age, income level
+
 ### Additional factors to take into consideration: 
 How do approval ratings go into an election impact the outcome?
 How do positive/negative news stories close to the election date impact outcomes?
 How does % of votes-by-mail predict or impact election outcomes?
 
+### Presentation
+
+https://docs.google.com/presentation/d/1XRfBFc_KVAVXQdgIeR4ELjG2vZAUJru2nBnmznDumCA/edit#slide=id.p
 
  ### Objectives
 
