@@ -2,23 +2,19 @@
 
 ## What states are the most influential in elections?
 
-In this project, the group will be analyzing historical and demographic data from previous elections. 
-
-
+In this project, the group analyzed historical data, demographics, voter power, and current polls. 
 
 ### Historical Data
 Which states are generally the best at predicting the presidential winner?
-Ex: Swing States
-How do third party vote shares cut into election victories?
+
+### Voter Power
+In which states do individuals vote matters more?
 
 ### Demographics 
-How does age play who votes and who wins elections?
-Which groups vote a higher percentage of the time?
-How does voter turnout impact elections?
-Whose votes count the most (i.e. voting power) and how do they predict the winner?
-Predictors of elections victories by ...
-Race, gender, education level, age, income level
+How do race and voter turn out to impact elections?
 
+### Current Polls
+What are current polls showing for the 2020 election?
 
 ### Presentation
 
