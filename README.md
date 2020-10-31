@@ -31,17 +31,4 @@ How does % of votes-by-mail predict or impact election outcomes?
 
 https://docs.google.com/presentation/d/1XRfBFc_KVAVXQdgIeR4ELjG2vZAUJru2nBnmznDumCA/edit#slide=id.p
 
- ### Objectives
 
- #### From Project 1 the group has been able to:
-
- -  Draw and interpret diagrams of collaborative Git branching workflows.
- -  Create new branches with Git.
- -  Push local branches to GitHub.
- -  Pull upstream changes from GitHub.
- - Pull from the appropriate branch(es) on GitHub.
- - Merge their branches into their local main on the command line.
- - Resolve merge conflicts on their computers.
- - Request the integration of their changes via PR.
- - Approve and merge PRs from GitHub.
- - Git stash to save "dirty" changes to their working environment.
